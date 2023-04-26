@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Callculator1</string>
+    <string name="ExitBTN">خروج</string>
+    <string name="AboutUS">درباره ما</string>
+    <string name="manual">راهنما</string>
+    <string name="Tools">ابزار</string>
+</resources>
